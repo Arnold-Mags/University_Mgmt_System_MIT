@@ -84,7 +84,7 @@ DATABASES = {
          'NAME': 'ums',
          'HOST': 'localhost',
          'PORT': '3306',
-         'USER': 'ARNOLD',
+         'USER': 'USER',
          'PASSWORD': '12345',
 
          'OPTIONS': {
